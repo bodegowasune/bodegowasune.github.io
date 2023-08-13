@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodegowasune.github.io/sitemap.xml
